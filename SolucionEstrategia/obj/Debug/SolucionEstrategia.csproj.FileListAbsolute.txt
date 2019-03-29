@@ -1,0 +1,30 @@
+F:\Maestria\M4 Desarrollo de sw seguro y seguridad en aplicaciones web\Refactorizar GildenRose\GildedRose-Refactoring-Kata-master\SolucionEstrategia\bin\Debug\SolucionEstrategia.exe.config
+F:\Maestria\M4 Desarrollo de sw seguro y seguridad en aplicaciones web\Refactorizar GildenRose\GildedRose-Refactoring-Kata-master\SolucionEstrategia\bin\Debug\SolucionEstrategia.exe
+F:\Maestria\M4 Desarrollo de sw seguro y seguridad en aplicaciones web\Refactorizar GildenRose\GildedRose-Refactoring-Kata-master\SolucionEstrategia\bin\Debug\SolucionEstrategia.pdb
+F:\Maestria\M4 Desarrollo de sw seguro y seguridad en aplicaciones web\Refactorizar GildenRose\GildedRose-Refactoring-Kata-master\SolucionEstrategia\obj\Debug\SolucionEstrategia.csprojResolveAssemblyReference.cache
+F:\Maestria\M4 Desarrollo de sw seguro y seguridad en aplicaciones web\Refactorizar GildenRose\GildedRose-Refactoring-Kata-master\SolucionEstrategia\obj\Debug\SolucionEstrategia.csproj.CoreCompileInputs.cache
+F:\Maestria\M4 Desarrollo de sw seguro y seguridad en aplicaciones web\Refactorizar GildenRose\GildedRose-Refactoring-Kata-master\SolucionEstrategia\obj\Debug\SolucionEstrategia.exe
+F:\Maestria\M4 Desarrollo de sw seguro y seguridad en aplicaciones web\Refactorizar GildenRose\GildedRose-Refactoring-Kata-master\SolucionEstrategia\obj\Debug\SolucionEstrategia.pdb
+C:\Users\dherbas\Desktop\Refactorizar GildenRose\GildedRose-Refactoring-Kata-master\SolucionEstrategia\bin\Debug\SolucionEstrategia.exe.config
+C:\Users\dherbas\Desktop\Refactorizar GildenRose\GildedRose-Refactoring-Kata-master\SolucionEstrategia\bin\Debug\SolucionEstrategia.exe
+C:\Users\dherbas\Desktop\Refactorizar GildenRose\GildedRose-Refactoring-Kata-master\SolucionEstrategia\bin\Debug\SolucionEstrategia.pdb
+C:\Users\dherbas\Desktop\Refactorizar GildenRose\GildedRose-Refactoring-Kata-master\SolucionEstrategia\obj\Debug\SolucionEstrategia.csprojResolveAssemblyReference.cache
+C:\Users\dherbas\Desktop\Refactorizar GildenRose\GildedRose-Refactoring-Kata-master\SolucionEstrategia\obj\Debug\SolucionEstrategia.exe
+C:\Users\dherbas\Desktop\Refactorizar GildenRose\GildedRose-Refactoring-Kata-master\SolucionEstrategia\obj\Debug\SolucionEstrategia.pdb
+F:\Maestria\Refactorizar GildenRose\SolucionEstrategia\bin\Debug\SolucionEstrategia.exe.config
+F:\Maestria\Refactorizar GildenRose\SolucionEstrategia\bin\Debug\SolucionEstrategia.exe
+F:\Maestria\Refactorizar GildenRose\SolucionEstrategia\bin\Debug\SolucionEstrategia.pdb
+F:\Maestria\Refactorizar GildenRose\SolucionEstrategia\obj\Debug\SolucionEstrategia.csprojResolveAssemblyReference.cache
+F:\Maestria\Refactorizar GildenRose\SolucionEstrategia\obj\Debug\SolucionEstrategia.csproj.CoreCompileInputs.cache
+F:\Maestria\Refactorizar GildenRose\SolucionEstrategia\obj\Debug\SolucionEstrategia.exe
+F:\Maestria\Refactorizar GildenRose\SolucionEstrategia\obj\Debug\SolucionEstrategia.pdb
+C:\Users\dherbas\Documents\Prueba\Refactorizar GildenRose\csharp\SolucionEstrategia\bin\Debug\SolucionEstrategia.exe.config
+C:\Users\dherbas\Documents\Prueba\Refactorizar GildenRose\csharp\SolucionEstrategia\bin\Debug\SolucionEstrategia.exe
+C:\Users\dherbas\Documents\Prueba\Refactorizar GildenRose\csharp\SolucionEstrategia\bin\Debug\SolucionEstrategia.pdb
+C:\Users\dherbas\Documents\Prueba\Refactorizar GildenRose\csharp\SolucionEstrategia\obj\Debug\SolucionEstrategia.exe
+C:\Users\dherbas\Documents\Prueba\Refactorizar GildenRose\csharp\SolucionEstrategia\obj\Debug\SolucionEstrategia.pdb
+C:\Users\dherbas\Documents\Prueba\Refactorizar GildenRose\SolucionEstrategia\bin\Debug\SolucionEstrategia.exe.config
+C:\Users\dherbas\Documents\Prueba\Refactorizar GildenRose\SolucionEstrategia\bin\Debug\SolucionEstrategia.exe
+C:\Users\dherbas\Documents\Prueba\Refactorizar GildenRose\SolucionEstrategia\bin\Debug\SolucionEstrategia.pdb
+C:\Users\dherbas\Documents\Prueba\Refactorizar GildenRose\SolucionEstrategia\obj\Debug\SolucionEstrategia.exe
+C:\Users\dherbas\Documents\Prueba\Refactorizar GildenRose\SolucionEstrategia\obj\Debug\SolucionEstrategia.pdb
